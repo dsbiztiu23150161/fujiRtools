@@ -1,0 +1,2 @@
+library(fuji)
+hello()
